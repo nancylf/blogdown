@@ -17,11 +17,9 @@ blogdown::install_hugo()
 
 ```{r}
 blogdown::new_site()
+blogdown::install_theme(theme = "gcushen/hugo-academic")
 ```
 
-```{r}
-
-```
 
 
 # R Markdown
