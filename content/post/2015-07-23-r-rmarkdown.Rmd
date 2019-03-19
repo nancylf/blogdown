@@ -16,6 +16,7 @@ blogdown::install_hugo()
 ```
 
 ```{r}
+blogdown::new_site()
 ```
 
 ```{r}
